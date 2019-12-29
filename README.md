@@ -1,7 +1,7 @@
 # Robotic_Arm
 
-This is my group project for subject BFM4503 ROBOTICS FOR ENGINEERS
-
+This is my group project for subject BFM4503 ROBOTICS FOR ENGINEERS.
+Title for this project is robot arm base on spg30 DC motor had utilize and have 4 degree of freedom.We use gear as our mechanism for each join and control with arduino mega as our microcontroller.
 Group member name:-
 
 FADHLI ASHRAFF BIN AB RAHIM (FB16007)
